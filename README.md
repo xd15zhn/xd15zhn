@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @xd15zhn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-xd15zhn/xd15zhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+仓库代码已全部转移至https://gitee.com/xd15zhn，  
+github的代码暂时不更新。  
+git commit 提交信息:  
+git commit -m "12.03 2010  
+laptop"  
+第一行为提交日期和时间，格式: 月.日 时分;  
+第二行为提交地点(设备)。  
+因为git 可以查看提交具体时间，所以第一行的提交时间为程序的最后修改时间，
+比如12月3日下午写完后没有立即提交，而等到12月4日上午提交，则第一行的提交时间仍然为12.03。  
