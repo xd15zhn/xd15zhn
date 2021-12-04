@@ -1,8 +1,10 @@
 仓库代码已全部转移至https://gitee.com/xd15zhn，  
 github的代码暂时不更新。  
-git commit 提交信息:  
+git commit 提交信息:
+```
 git commit -m "12.03 2010  
 laptop"  
+```
 第一行为提交日期和时间，格式: 月.日 时分;  
 第二行为提交地点(设备)。  
 因为git 可以查看提交具体时间，所以第一行的提交时间为程序的最后修改时间，
